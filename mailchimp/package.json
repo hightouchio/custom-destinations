@@ -1,0 +1,13 @@
+{
+  "name": "mailchimp-custom-destination",
+  "version": "1.0.0",
+  "scripts": {
+    "run": ""
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jayson": "^3.6.3",
+    "request-promise-native": "^1.0.9"
+  },
+  "devDependencies": {}
+}
